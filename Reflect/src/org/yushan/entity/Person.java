@@ -1,10 +1,6 @@
 package org.yushan.entity;
 
-<<<<<<< HEAD
-//121
-=======
-//123456789
->>>>>>> branch 'master' of https://github.com/zhengxushan/eclipsegitproject.git
+//121+3456789
 public class Person {
 	private String name;
 	private int age;
