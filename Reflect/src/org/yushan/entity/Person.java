@@ -1,6 +1,6 @@
 package org.yushan.entity;
 
-//123456111
+//121
 public class Person {
 	private String name;
 	private int age;
